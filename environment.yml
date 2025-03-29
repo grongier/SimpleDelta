@@ -1,0 +1,12 @@
+name: simpledelta
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - jupyter
+  - ipympl
